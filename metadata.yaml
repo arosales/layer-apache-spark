@@ -2,7 +2,7 @@ name: apache-spark
 summary: Apache Spark is a fast engine for large-scale data processing
 maintainer: Juju Big Data <bigdata@lists.ubuntu.com>
 description: |
-  Deploys the Apache Spark Charm.
+  Deploys the Apache Spark Charm!
   Apache Spark is a fast and general engine for large-scale data processing.
 
   Learn more at http://spark.apache.org.
